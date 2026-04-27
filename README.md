@@ -78,7 +78,7 @@ Yara Shartooh
 
 ---
 
-## 🇩🇪 Deutsche Version
+## Deutsche Version
 
 ## Projektübersicht
 Dieses Projekt analysiert Arbeitsmarktstrukturen in Deutschland auf Basis der Mikrozensus-Daten 2023.
